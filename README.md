@@ -36,7 +36,7 @@ It presents key metrics for pipeline performance and visualizes the progressive 
 ---
 
 ## 📷 Preview
-![Funnel Chart Dashboard](./Screenshot%202025-10-04%20160724.png)
+![Funnel Chart Dashboard](./funnel%chart%sales%pipeline.png)
 
 ---
 
